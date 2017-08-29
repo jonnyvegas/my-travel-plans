@@ -1,6 +1,7 @@
 html {
 	box-sizing: border-box;
 	height: 100%;
+	width: 100%;
 }
 
 *,
@@ -53,8 +54,14 @@ h2{
 
 #paris {
 	background-color: #d32f2f;
+<<<<<<< HEAD
 }
 
 .destination:hover h2{
 	transform:rotate(0deg);
 }
+||||||| merged common ancestors
+}
+=======
+}
+>>>>>>> 916ca373aec31e82c9423901fe8215a7b43197f2
